@@ -3,7 +3,7 @@
 
 ![badges](https://img.shields.io/badge/HTML-CSS-orange)
 
-## [Live Link](https://token-lp.netlify.app/)
+## [Live Link](https://monstera-lp.netlify.app/)
 
 ### project name:Monstera Landing Page with pure html and css
 ## Hy, there!!
